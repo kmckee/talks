@@ -1,4 +1,4 @@
-== Get your garage door online ==
+== Internet Enable Your Garage Door! ==
 
 RF based garage door openers are so 2015!  Let's modernize your garage by introducing it to the cloud.
 
