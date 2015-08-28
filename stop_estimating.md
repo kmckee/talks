@@ -1,5 +1,4 @@
-== Stop Estimating  ==
-
+== Empirical Estimation  ==
 
 Everyone hates making estimates, yet we all do it.  To make matters worse, our estimates are almost always wrong.  This breaks trust with stakeholders and negatively affects the business decisions they make based on estimates.
 
