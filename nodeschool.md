@@ -1,10 +1,5 @@
-== Back to school!  NodeSchool, that is... ==
+== Learn You Node! ==
 
-In this workshop we will work together in groups to solve hands-on
-coding exercises that are part of the open source curriculum
-for NodeSchool.  NodeSchool is a project run by volunteers with 
-two goals: to create high quality programming curriculum and 
-to host community learning events. You'll leave this workshop
-with hands-on experience in the subject of your choice, and the
-confidence to continue solving NodeSchool exercises on your own.
+We will run through a series of Node.js workshops in pairs. Starting at a basic "HELLO WORLD" and moving on to more advanced exercises about dealing with synchronous & asynchronous I/O, filesystem operations, TCP and HTTP networking, events and streams.  You'll leave this workshop with hands-on experience in the subject of your choice, and the
+confidence to continue solving NodeSchool challenges on your own.
 
